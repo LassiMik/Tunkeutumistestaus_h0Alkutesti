@@ -1,0 +1,2 @@
+# Tunkeutumistestaus_h0Alkutesti
+Repositorio tunkeutumistestaus kurssin tehtävää h0 Alkutesti varten
